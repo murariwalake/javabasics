@@ -1,4 +1,4 @@
-package org.example.e9.operators.e1.unerybinaryternary;
+package org.example.e9.operators.e1.unarybinaryternary;
 
 public class GuessTheOutputUnaryBinaryAndTernary {
     public static void main(String[] args) {

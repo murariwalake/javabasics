@@ -19,5 +19,10 @@ public class GuessTheOutputBitwiseOperators {
 
         int e = 17 ^ 3;
         System.out.println(e);
+
+        //express 3 * 16 using right shift operator
+        System.out.println("3 * 16 = 3 << 4 = " + (3 << 4));
+        //express 20 / 4 using left shift operator
+        System.out.println("20 / 4 = 20 >> 2 = " + (20 >> 2));
     }
 }

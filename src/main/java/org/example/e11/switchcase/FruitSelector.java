@@ -25,7 +25,6 @@ public class FruitSelector {
                 break;
             default:
                 System.out.println("Invalid choice");
-                break;
         }
     }
 }

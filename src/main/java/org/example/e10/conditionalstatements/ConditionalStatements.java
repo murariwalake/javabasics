@@ -3,7 +3,7 @@ package org.example.e10.conditionalstatements;
 public class ConditionalStatements {
     public static void main(String[] args) {
         //if statement
-        int x = 10;
+        int x = 0;
         if (x == 0) {
             System.out.println(x + " is zero");
         }
@@ -25,7 +25,5 @@ public class ConditionalStatements {
         } else {
             System.out.println(z + " is positive");
         }
-
-
     }
 }

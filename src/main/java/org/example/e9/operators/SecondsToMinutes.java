@@ -1,6 +1,6 @@
 package org.example.e9.operators;
 
-public class ProgramsOnOperators {
+public class SecondsToMinutes {
     public static void main(String[] args) {
         //convert seconds to minutes and print
         //66 seconds = 1 min and 6 seconds
